@@ -5,11 +5,11 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Next%20Level%20Week-1.0-8257E5" alt="Next Level Week - 1.0" title="Next Level Week - 1.0">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/thiagosalome/proffy?color=8257E5">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiagosalome/proffy?color=8257E5">
-  <img alt="GitHub package.json version badge" src="https://img.shields.io/github/downloads/thiagosalome/proffy/total?color=8257E5">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5?color=8257E5">
+  <img src="https://img.shields.io/badge/Next%20Level%20Week-1.0-774DD6" alt="Next Level Week - 1.0" title="Next Level Week - 1.0">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/thiagosalome/proffy?color=774DD6">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiagosalome/proffy?color=774DD6">
+  <img alt="GitHub package.json version badge" src="https://img.shields.io/github/downloads/thiagosalome/proffy/total?color=774DD6">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-774DD6?color=774DD6">
 </p>
 
 <!-- Indice-->
