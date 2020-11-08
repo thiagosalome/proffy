@@ -5,7 +5,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Next%20Level%20Week-1.0-774DD6" alt="Next Level Week - 1.0" title="Next Level Week - 1.0">
+  <img src="https://img.shields.io/badge/Next%20Level%20Week-2.0-774DD6" alt="Next Level Week - 2.0" title="Next Level Week - 2.0">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/thiagosalome/proffy?color=774DD6">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiagosalome/proffy?color=774DD6">
   <img alt="GitHub package.json version badge" src="https://img.shields.io/github/downloads/thiagosalome/proffy/total?color=774DD6">
@@ -130,13 +130,13 @@ Para executar o projeto é necessário ter instalado as seguintes ferramentas:
     <tr>
       <td align="center">
         <a href='https://git-scm.com/downloads' target='_blank'>
-          <img src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/git.png" width='50' alt="React">
+          <img src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/git.png" width='50' alt="GIT">
           <p>GIT</p>
         </a>
       </td>
       <td>
         <a href='https://git-scm.com/downloads' target='_blank'>
-          <img src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/node.png" width='50' alt="React">
+          <img src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/node.png" width='50' alt="Node.js">
           <p>Node.js</p>
         </a>
       </td>
